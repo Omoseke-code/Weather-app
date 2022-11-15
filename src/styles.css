@@ -16,5 +16,8 @@ b {
   font-size: 150px;
 }
 #open (
+position: relative;
 color: blue;
+text-decoration: none;
+right: 20px;
 }
